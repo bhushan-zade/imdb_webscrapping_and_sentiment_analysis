@@ -1,3 +1,3 @@
-# imdb_scraping-and-sentiment-analysis
+# **`IMDB WEB Scraping and Sentiment Analysis`**
 
-Support file for the repository : https://github.com/bhushan-zade/Sentiment-Analysis
+**`Support file for the Repository:`**   https://github.com/bhushan-zade/Sentiment-Analysis
